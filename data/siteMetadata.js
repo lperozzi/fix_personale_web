@@ -7,14 +7,14 @@ const siteMetadata = {
   siteUrl: 'https://fix-personale-web-jguvei3r4-lperozzi.vercel.app',
   siteRepo: 'https://github.com/lperozzi/fix_personale_web',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/Lorenzo.jpg',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
+  email: 'lorenzo@geomaap.io',
+  github: 'https://github.com/lperozzi',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/lperozzi/',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
