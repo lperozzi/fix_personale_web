@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Lorenzo Perozzi
+avatar: /static/images/Lorenzo.jpg
+occupation: Postdoc in geodata science
+company: Departement of Earth Science
+company2: University of Geneva
+gergba: https://www.unige.ch/ge-rgba/welcome/
+email: lorenzo.perozzi@gmail.com
+twitter: https://twitter.com/lor3nzop3rozzi
+linkedin: https://www.linkedin.com/in/lperozzi
+github: https://github.com/lperozzi
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Lorenzo Perozzi is currently postdoctoral researcher at the University of Geneva. He has several years of experience in geodata processing, integration, modeling and visualization using machine learning and geostatistics.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+His vision is to develop innovative approaches and provide digital solutions to increase the power of geodata and contribute to an effective and sustainable exploration of the georessoures.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorenzo holds a PhD and a MSc from the Institut de la recherche scientifique (Québec, Canada) as well as a MSc on engineering geology from the University of Lausanne (Switzerland).
